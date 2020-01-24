@@ -112,7 +112,7 @@ def movies_with_directors_set(source)
     i += 1
   end
 
-  a_o_a_movies_by_dir
+  arr
 end
 
 # ----------------    End of Your Code Region --------------------
